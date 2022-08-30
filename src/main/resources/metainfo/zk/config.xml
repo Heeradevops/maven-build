@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>424</config-name><!-- used to resolve dependency -->
+	<!--
+	<depends>zk</depends>
+	-->
+	
+  	<version>
+		<version-class>roll.Version</version-class>
+		<version-uid>2.0</version-uid>
+	</version>
+
+	<!--
+	<listener>
+		<listener-class>roll.</listener-class>
+	</listener>
+	
+	<library-property>
+		<name></name>
+		<value>roll.</value>
+	</library-property>
+	-->
+</zk>
